@@ -1,0 +1,8 @@
+[
+ {"nombre": "Mollie" , "precio": 2500 ,"imagen": "../img/mollie.jpg"  },
+ {"nombre": "Amy" , "precio": 2500 , "imagen": "../img/amy.jpg"  },
+ {"nombre": "El 10" , "precio": 2500, "imagen": "../img/el10.jpg"  },
+ {"nombre": "Mate Liso Rosa" , "precio": 2000, "imagen": "../img/mateRosa.jpg"},
+ {"nombre": "Sarah Key" , "precio":2500, "imagen": "../img/sarahKey.jpg"}
+ 
+]
